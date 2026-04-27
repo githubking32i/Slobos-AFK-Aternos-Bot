@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "KRX",
     "password": "",
-    "type": "oline"
+    "type": "offline"
   },
   "server": {
-    "ip": "KRX_Minecraft.aternos.me",
-    "port": 52297,
+    "ip": "Titano_vaiya.aternos.me",
+    "port": 53185,
     "version": "",
     "try-creative": false
   },
