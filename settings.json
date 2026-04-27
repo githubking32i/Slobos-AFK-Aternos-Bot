@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Titano_vaiya.aternos.me",
+    "ip": "marmot.aternos.host:53185",
     "port": 53185,
     "version": "",
     "try-creative": false
